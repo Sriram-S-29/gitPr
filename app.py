@@ -1,7 +1,4 @@
-"""
-Basic Python API Call Examples
-This module demonstrates common API request patterns using the requests library.
-"""
+
 
 import requests
 import json
